@@ -1,8 +1,8 @@
 # Site settings
-title: 王琦 # 你的博客名字，可以定义修订
-header-img: "img/black.jpg"
+title:  上下是新月# 你的博客名字，可以定义修订
+header-img: "img/blue.jpg"
 tagline: "cn"  
-description: "永远是学生"  # 一句话描述你的博客
+description: "王琦"  # 一句话描述你的博客
 baseurl: ""
 url: "http://maxwangqi.com"  # 此处填写你的博客地址 
 
@@ -44,7 +44,7 @@ defaults:
     values:
       layout: "post"
       author: "wangqi" # 你的名字
-      header-img: "img/black.jpg" # We don't want posts without a header image, that whould mean white on white
+      header-img: "img/blue.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :
