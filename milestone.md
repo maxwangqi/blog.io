@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "milestone"
-description: "代表作"
+description: "永远是学生"
 header-img: "img/blueblack.jpg"
 ---
 
