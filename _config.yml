@@ -2,7 +2,7 @@
 title: 七七四九  # 你的博客名字，可以定义修订
 header-img: "img/blueblack.jpg"
 tagline: "cn"  
-description: " 王琦 "  # 一句话描述你的博客
+description: " my blog "  # 一句话描述你的博客
 baseurl: ""
 url: "http://maxwangqi.com"  # 此处填写你的博客地址 
 
@@ -18,10 +18,10 @@ favicon: img/wangqi.png # 浏览器地址栏小图标，可自定义更改
 
 douban_username:  # 你的豆瓣id
 twitter_username: 
-github_username: 
+github_username: maxwangqi
 facebook_username: 
-weibo_username: 
-zhihu_username: 
+weibo_username: 我这个昵称是别人起的
+zhihu_username: 王琦
 
 # Build settings  
 # use Github Flavored Markdown !important  
