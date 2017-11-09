@@ -13,8 +13,8 @@ owner:
   bio: "永远是学生" # 填写作者信息：博客描述
 
 # Data
-gavatar: img/wangqi.png # 浏览器地址栏小图标，可自定义更改
-favicon: img/wangqi.png # 浏览器地址栏小图标，可自定义更改
+gavatar: img/wangqi.icon # 浏览器地址栏小图标，可自定义更改
+favicon: img/wangqi.icon # 浏览器地址栏小图标，可自定义更改
 
 douban_username:  # 你的豆瓣id
 twitter_username: 
