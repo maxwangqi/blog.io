@@ -15,7 +15,7 @@ description: GitHub搭建独立博客系列教程
 
 
 
-#### 目录####
+#### 目录
 
 **1.Github内容**
 
@@ -29,13 +29,13 @@ description: GitHub搭建独立博客系列教程
 
 
 
-#### 独立博客系列教程（一）——GitHub内容####
+#### 独立博客系列教程（一）——GitHub内容
 
 本部分教程主要介绍四个方面 **GitHub注册**、**安装Git，Node.js**、**Git与GitHub连接**
 
 
 
-##### GitHub注册#####
+##### GitHub注册
 
 GitHub账号注册是非常简单的，与平常网站应用注册步骤相差无几。
 
@@ -61,7 +61,7 @@ GitHub账号注册是非常简单的，与平常网站应用注册步骤相差�
 
 
 
-##### Git与Github连接#####
+##### Git与Github连接
 
 我们假设电脑以前并未存在ssh key
 
